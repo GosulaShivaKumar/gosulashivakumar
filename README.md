@@ -3,7 +3,7 @@
 <!--
 **GosulaShivaKumar/gosulashivakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile-->
 
- ![alt text](https://raw.githubusercontent.com/gosulashivakumar/gosulashivakumar/master/banner_image.jpg)
+ ![Banner Image](https://raw.githubusercontent.com/gosulashivakumar/gosulashivakumar/master/banner_image.jpg)
  
  <img align='right' src="https://raw.githubusercontent.com/gosulashivakumar/gosulashivakumar/master/profile_image1.jpg" width="230" />
 
