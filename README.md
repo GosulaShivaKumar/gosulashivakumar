@@ -28,7 +28,7 @@ I am a student of VNR Vignana Jyothi Institute of Engineering & Technology curre
 [![Shiva's github stats](https://github-readme-stats.vercel.app/api?username=gosulashivakumar&show_icons=true&theme=tokyonight)](https://github.com/gosulashivakumar/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/gosulashivakumar/"><img src="https://raw.githubusercontent.com/gosulashivakumar/gosulashivakumar/master/logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/gosulashivakumar"><img src="https://raw.githubusercontent.com/sm/gosulashivakumar/master/logos/github-logo.png" width="40" /></a>
+<a href="https://github.com/gosulashivakumar"><img src="https://raw.githubusercontent.com/gosulashivakumar/gosulashivakumar/master/logos/github-logo.png" width="40" /></a>
 <a href="mailto:gosulashivayadav777@gmail.com"><img src="https://raw.githubusercontent.com/gosulashivakumar/gosulashivakumar/master/logos/google-plus.png" width="40" /></a>
 <a href="https://www.instagram.com/s.h.i.v.a_yadav"><img src="https://raw.githubusercontent.com/gosulashivakumar/gosulashivakumar/master/logos/instagram.png" width="40" /></a>
 
