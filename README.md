@@ -21,7 +21,7 @@ I am a student of VNR Vignana Jyothi Institute of Engineering & Technology curre
 📱 Experienced Web Developer 
 ⚙️ Filled with the potential of converting ideas into working products.\
 ✔ Interested in the field of CyberSecurity and Data Science.\
-🔭 I’m currently working on Mobile Application Development (Flutter) and Machine Learning\
+🔭 I’m currently working on Mobile Application Development \
 📫 How to reach me: Visit my Website : <a href="http://gosulashivakumar.github.io/">Gosula shiva kumar</a>
 
 
