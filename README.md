@@ -104,4 +104,4 @@ Css                        42 mins             █░░░░░░░░░░
 <p align="center">
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 </p>
-<!Readme is INSPIRED FROM @guilyx>
+<!Readme is INSPIRED FROM @guilyx actually copied Haha anyway its a cool readme bruhv i couldn't resist myself>
