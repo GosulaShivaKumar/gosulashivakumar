@@ -23,7 +23,7 @@
 </a>
 </p>
 
-I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.vnrvjiet.ac.in)** in India. I also work as a **Web Developer Intern [@innostes](https://www.innostes.com)**. I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS). Besides Cybersecurity, I'm a Small Forward in Web Development.
+I'm a **Graduate Student 👨🏽‍💼 [@VNRVJIET](https://www.vnrvjiet.ac.in)** in India. I also work as a **Web Developer Intern [@innostes](https://www.innostes.com)**. I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS). Besides Cybersecurity, I'm a Small Forward in Web Development.
 
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
@@ -41,15 +41,6 @@ I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.vnrvjiet.ac.in)** in
 </p>
 
 
-**:zap: Recent Activity:**
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com//gosulashivakumar/realtime-scheduler/issues/6) in [gosulashivakumar/realtime-scheduler](https://github.com//gosulashivakumar/realtime-scheduler)
-2. ❗️ Opened issue [#5](https://github.com//gosulashivakumar/realtime-scheduler/issues/5) in [gosulashivakumar/realtime-scheduler](https://github.com//gosulashivakumar/realtime-scheduler)
-3. ❗️ Opened issue [#4](https://github.com//gosulashivakumar/realtime-scheduler/issues/4) in [gosulashivakumar/realtime-scheduler](https://github.com//gosulashivakumar/realtime-scheduler)
-4. ❗️ Opened issue [#3](https://github.com//gosulashivakumar/realtime-scheduler/issues/3) in [gosulashivakumar/realtime-scheduler](https://github.com//gosulashivakumar/realtime-scheduler)
-5. 🎉 Merged PR [#2](https://github.com//gosulashivakumar/realtime-scheduler/pull/2) in [gosulashivakumar/realtime-scheduler](https://github.com//gosulashivakumar/realtime-scheduler)
-<!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.3%20million%20lines%20of%20code-blue)
@@ -84,10 +75,10 @@ Sunday       154 commits    ██░░░░░░░░░░░░░░░�
 
 💬 Programming Languages: 
 Go                       7 hrs 4 mins        ███████████░░░░░░░░░░░░░░   45.51% 
-C++                      3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.13% 
+C                     3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.13% 
 Bash                     2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68% 
-Protocol Buffer          54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.8% 
-C                        42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.61%
+HTML        54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.8% 
+Css                        42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.61%
 
 ```
 
