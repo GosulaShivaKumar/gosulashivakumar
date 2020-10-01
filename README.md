@@ -21,7 +21,7 @@
 </a>
 </p>
 
-I'm a **Graduate Student 👨🏽‍💼 [@VNRVJIET](https://www.vnrvjiet.ac.in)** in India. I also work as a **Web Developer Intern [@innostes](https://www.innostes.com)**. I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS). Besides Cybersecurity, I'm a Small Forward in Web Development.
+I'm a **Graduate Student 👨🏽‍💼 [@VNRVJIET](https://www.vnrvjiet.ac.in)** in India. I also work as a **Web Developer Intern [@innostes](https://www.innostes.com)**. I strongly advocate my fellow classmates to get into Open Source 📢. Besides Cybersecurity, I'm a Small Forward in Web Development.
 
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
