@@ -6,19 +6,17 @@
 
 <p align="center">
 <br/>
-<a href="https://twitter.com/spida_rwin">
+<a href="https://twitter.com/Shellbee">
   <img alt="gosulashivakumar | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
+<a href="https://www.linkedin.com/in/gosulashivakumar">
   <img alt="gosulashivakumar's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
-<a href="https://www.facebook.com/erwin.lejeune">
-  <img alt="gosulashivakumar's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
-</a>
-<a href="https://www.instagram.com/spid_erwin">
+
+<a href="https://www.instagram.com/s.h.i.v.a_yadav">
   <img alt="gosulashivakumar's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+<a href="https://open.spotify.com/user/">
   <img alt="gosulashivakumar's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 </p>
@@ -106,3 +104,4 @@ Css                        42 mins             █░░░░░░░░░░
 <p align="center">
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 </p>
+<!Readme is INSPIRED FROM @guilyx>
