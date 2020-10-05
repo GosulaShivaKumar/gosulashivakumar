@@ -2,7 +2,7 @@
 [![Actions Status](https://github.com/gosulashivakumar/gosulashivakumar/workflows/update-gh-activity/badge.svg)](https://github.com/gosulashivakumar/gosulashivakumar/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=gosulashivakumar.gosulashivakumar)
 
-### Hello 👋, I'm [gosulashivakumar](https://gosulashivakumar.github.io) 
+### Hello 👋, I'm [GosulaShivaKumar](https://gosulashivakumar.github.io) 
 
 <p align="center">
 <br/>
@@ -21,13 +21,13 @@
 </a>
 </p>
 
-I'm a **Graduate Student 👨🏽‍💼 [@VNRVJIET](https://www.vnrvjiet.ac.in)** in India. I also work as a **Web Developer Intern [@innostes](https://www.innostes.com)**. I strongly advocate my fellow classmates to get into Open Source 📢. Besides Cybersecurity, I'm a Small Forward in Web Development.
+I'm a **Graduate Student 👨🏽‍💼 [@VNRVJIET](https://www.vnrvjiet.ac.in)** in India. I also work as a **Web Developer Intern [@innostes](https://www.innostes.com)**. Besides Cybersecurity, I'm a Small Forward in Web Development.
 
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
 </p>
 
-- 📖 I’m currently learning new things on [Coursera](https://www.coursera.org);
+- 📖 I’m currently learning new things ;
 - 🤹🏽 Fields I enjoy the most include [ 🎛 Electronics, 🖼 Cyber Security, 📊 Web Development]
 - 📈 I’m fluent in [C, Python, Go,Shell/Bash];
 - 💬 I am fast to respond and looking for people willing to grow their profiles by contributing regularly;
@@ -85,8 +85,8 @@ Css                        42 mins             █░░░░░░░░░░
 
 **Languages and Tools:**  
 
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
+<code><img height="50" src=""></code>
+<code><img height="50" src="https://www.flaticon.com/free-icon/go-lang_919838?term=go%20lang&page=1&position=1"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
 <code><img height="50" src="https://img.icons8.com/color/48/000000/golang.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
