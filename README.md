@@ -85,8 +85,7 @@ Css                        42 mins             █░░░░░░░░░░
 
 **Languages and Tools:**  
 
-<code><img height="50" src=""></code>
-<code><img height="50" src="https://www.flaticon.com/free-icon/go-lang_919838?term=go%20lang&page=1&position=1"></code>
+
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
 <code><img height="50" src="https://img.icons8.com/color/48/000000/golang.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
