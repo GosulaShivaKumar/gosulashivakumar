@@ -28,10 +28,10 @@ I'm a **Graduate Student 👨🏽‍💼 [@VNRVJIET](https://www.vnrvjiet.ac.in)
 </p>
 
 - 📖 I’m currently learning new things ;
-- 🤹🏽 Fields I enjoy the most include [ 🎛 Electronics, 🖼 Cyber Security, 📊 Web Development]
+- 🤹🏽 Fields I enjoy the most include [ 🖼 Cyber Security, 📊 Web Development]
 - 📈 I’m fluent in [C, Python, Go,Shell/Bash];
 - 💬 I am fast to respond and looking for people willing to grow their profiles by contributing regularly;
-- ⚡️ I am currently writing an article along with Dr.C.Thirmal (Associate Professor ) on "Apllication of EAP's in Electronics"
+- ⚡️ I am currently working as Student Assistant at VR Research @ School of Interior Architecture, FIU
 - 📫 How to reach me: <Gosulashivayadav777@gmail.com>;
 
 <p align="center">
