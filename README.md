@@ -13,9 +13,7 @@
   <img alt="gosulashivakumar's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 
-<a href="https://www.instagram.com/s.h.i.v.a_yadav">
-  <img alt="gosulashivakumar's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
+
 <a href="https://open.spotify.com/user/">
   <img alt="gosulashivakumar's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
