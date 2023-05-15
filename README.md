@@ -92,7 +92,7 @@ Css                        42 mins             █░░░░░░░░░░
 <code><img height="50" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/matlab_104289.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
+<code><img height="50" src="https://icons8.com/icon/33039/amazon-web-services"></code>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gosulashivakumar&show_icons=true&hide_border=true">
