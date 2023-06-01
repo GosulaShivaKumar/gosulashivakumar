@@ -22,7 +22,7 @@
 I'm a **Graduate Student 👨🏽‍💼 [@Florida International University](https://fiu.edu)** in Florida, USA. <!I also work as a **Student Assistant- Research[@FIU](https://fiu.edu)**> Besides Cybersecurity, I'm a Small Forward in Web Development.
 
 - 📖 I’m currently learning new things ;
-- 🤹🏽 Fields I enjoy the most include [ 🖼 Cyber Security, 📊 Web Development]
+- 🤹🏽 Fields I enjoy the most include [ 🖼 Cyber Security, 📊 Web Development, Cloud Security]
 - 📈 I’m fluent in [C, Python, Go,Shell/Bash];
 - 💬 I am fast to respond and looking for people willing to grow their profiles by contributing regularly;
 - ⚡️ I am currently working as Student Assistant at VR Research @ School of Interior Architecture, FIU
