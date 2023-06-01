@@ -21,10 +21,6 @@
 
 I'm a **Graduate Student 👨🏽‍💼 [@Florida International University](https://fiu.edu)** in Florida, USA. <!I also work as a **Student Assistant- Research[@FIU](https://fiu.edu)**> Besides Cybersecurity, I'm a Small Forward in Web Development.
 
-<p align="center">
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/jTNG3RF6EwbkpD4LZx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx">via GIPHY</a></p>
-</p>
-
 - 📖 I’m currently learning new things ;
 - 🤹🏽 Fields I enjoy the most include [ 🖼 Cyber Security, 📊 Web Development]
 - 📈 I’m fluent in [C, Python, Go,Shell/Bash];
