@@ -19,7 +19,7 @@
 </a>
 </p>
 
-I'm a **Graduate Student 👨🏽‍💼 [@Florida International University](https://fiu.edu)** in Florida, USA. <!I also work as a **Student Assistant- Research[@FIU](https://fiu.edu)**> Besides Cybersecurity, I'm a Small Forward in Web Development.
+Information security analyst | Experience in SOC and Compliance & Auditing | Payments and Finance security | Comptia Security + | AWS security Speciality | AWS Solutions Architect |.
 
 - 📖 I’m currently learning new things ;
 - 🤹🏽 Fields I enjoy the most include [ 🖼 Cyber Security, 📊 Web Development, Cloud Security]
