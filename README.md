@@ -19,7 +19,7 @@
 </a>
 </p>
 
-Information security analyst | Experience in SOC and Compliance & Auditing | Payments and Finance security | Comptia Security + | AWS security Speciality | AWS Solutions Architect |.
+Information security analyst | Experienced in Security Operations |  PCI DSS Compliance | Payments and Finance security | Comptia Security + | AWS security Speciality | AWS Solutions Architect |.
 
 - 📖 I’m currently learning new things ;
 - 🤹🏽 Fields I enjoy the most include [ 🖼 Cyber Security, 📊 Web Development, Cloud Security]
