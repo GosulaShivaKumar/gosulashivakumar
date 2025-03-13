@@ -26,7 +26,7 @@ Information security analyst | Experienced in Security Operations |  PCI DSS Com
 - 📈 I’m fluent in [C, Python, Go,Shell/Bash];
 - 💬 I am fast to respond and looking for people willing to grow their profiles by contributing regularly;
 - ⚡️ I am currently working as Information Security Analyst at FinMkt
-- 📫 How to reach me: <Gosulashivayadav777@gmail.com>;
+- 📫 How to reach me: <Gosulashiva7@gmail.com>;
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=gosulashivakumar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
