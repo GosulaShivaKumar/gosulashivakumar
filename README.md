@@ -25,7 +25,7 @@ Information security analyst | Experienced in Security Operations |  PCI DSS Com
 - 🤹🏽 Fields I enjoy the most include [ 🖼 Cyber Security, 📊 Web Development, Cloud Security]
 - 📈 I’m fluent in [C, Python, Go,Shell/Bash];
 - 💬 I am fast to respond and looking for people willing to grow their profiles by contributing regularly;
-- ⚡️ I am currently working as Student Assistant at VR Research @ School of Interior Architecture, FIU
+- ⚡️ I am currently working as Information Security Analyst at FinMkt
 - 📫 How to reach me: <Gosulashivayadav777@gmail.com>;
 
 <p align="center">
