@@ -1,6 +1,4 @@
-[![Actions Status](https://github.com/gosulashivakumar/gosulashivakumar/workflows/wakatime-stats/badge.svg)](https://github.com/gosulashivakumar/gosulashivakumar/actions)
-[![Actions Status](https://github.com/gosulashivakumar/gosulashivakumar/workflows/update-gh-activity/badge.svg)](https://github.com/gosulashivakumar/gosulashivakumar/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=gosulashivakumar.gosulashivakumar)
+
 
 ### Hello 👋, I'm [GosulaShivaKumar](https://gosulashivakumar.github.io) 
 
